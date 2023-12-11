@@ -1,2 +1,6 @@
 # Linkedin
 host-suffix, linkedin.com, proxy
+
+# AD
+# > taobao
+host-suffix, tanx.com, reject-dict
