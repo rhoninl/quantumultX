@@ -1,0 +1,2 @@
+# Redirect Linkedin 
+^https?:\/\/(www.)?linkedin\.cn\/ url 302 https://www.linkedin.com/
